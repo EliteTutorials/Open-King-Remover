@@ -3,15 +3,14 @@ Android application to remove kingroot, unlicensed for easy modifications.
 This application was made to remove kingroot files from Android devices.
 I made this because i was sick of having to buy a decent kingroot remover 
 on the store.
-
-
-
+#
+#
 
 # Usage   
 First of all, You'll need an alternative Super user manager to control su 
 and remove or replace it ! I highly recommend SuperSU by @ChainfireXDA.
-• Try the compile d version first and see if it works ok    
-
+# 
+#
 Compile,  
 • Extract the zip file into a new folder and call it whatever you want.
 • Open the project in Android Studio and then  rebuild it.
